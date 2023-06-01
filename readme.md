@@ -77,9 +77,11 @@ npm start
 
 A aplicação estará disponível em http://localhost:3000.
 
-## Layout
+## Deploy
 
+Para o deploy do Backend da aplicação utilizamos o 
 
+![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)(https://render.com/)
 
 ## Autor
 
