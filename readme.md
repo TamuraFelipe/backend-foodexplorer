@@ -1,4 +1,4 @@
-# Food Explorer
+# Food Explorer - Backend
 
 Food Explorer é uma aplicação de menu interativo para um restaurante fictício. Esta aplicação foi desenvolvida como parte do desafio final do programa Explorer da Rocketseat.
 
