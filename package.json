@@ -6,6 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "node src/server.js",
+    "startDev": "nodemon src/server.js",
     "start": "pm2-runtime start ecosystem.config.js --env production",
     "migrate": "npx knex migrate:latest"
   },
@@ -27,3 +28,5 @@
     "sqlite3": "^5.1.6"
   }
 }
+
+
